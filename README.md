@@ -15,9 +15,9 @@ A webpage that allows users to create sheets for mech designs with options for d
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] Proper use of Markdown
+- [x] Proper use of Markdown
 - [x] A concise and compelling elevator pitch
-- [ ] Description of key features
+- [x] Description of key features
 - [x] Description of how you will use each technology
 - [ ] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
 
@@ -29,7 +29,7 @@ Many
 
 ![Design image](placeholder.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 ```mermaid
 sequenceDiagram
@@ -40,9 +40,9 @@ sequenceDiagram
 
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+- Users are able to create an account and then able to login later to save data
+- Users are given a template to create a datasheet for a mech/robot with customisable parts that affect certain characteristics/statistics of the model
+- Users are able to share their creation with others and then are able to browse what others have created 
 
 ### Technologies
 
