@@ -25,7 +25,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 ### Elevator pitch
 
-This needs to be a short pitch that I would be able to describe in an elevator ride
+Current idea is for a simple D&D character creator or Mech design sheet type of idea. It would be a simple ideas where users could 1. login to save sheets/characters, 2. upload them to database for viewing later, and 3. view other characters.
 
 ### Design
 
