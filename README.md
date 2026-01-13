@@ -33,9 +33,29 @@ I like many others have been a big fan of large robots and mechs and the ability
 
 ```mermaid
 sequenceDiagram
-    actor You
-    actor Website
-    You->>Website: Replace this with your design
+    actor User
+    actor Server
+    actor Database
+    
+    User->>Server: Create account / Login
+    Server->>Database: Verify credentials
+    Database-->>Server: Authentication result
+    Server-->>User: Access granted
+    
+    User->>Server: Select mech parts (body, weapons, armor)
+    Server->>Database: Fetch available parts & stats
+    Database-->>Server: Return parts library
+    Server-->>User: Display part options
+    
+    User->>Server: Save mech design
+    Server->>Database: Store mech datasheet
+    Database-->>Server: Confirm saved
+    Server-->>User: Design saved successfully
+    
+    User->>Server: Browse other users' mechs
+    Server->>Database: Query shared designs
+    Database-->>Server: Return mech gallery
+    Server-->>User: Display community creations
 ```
 
 ### Key features
