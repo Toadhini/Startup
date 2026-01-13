@@ -41,7 +41,9 @@ sequenceDiagram
 ### Key features
 
 - Users are able to create an account and then able to login later to save data
+- Secure Login and authentication
 - Users are given a template to create a datasheet for a mech/robot with customisable parts that affect certain characteristics/statistics of the model
+- Multiple options for each part selection piece
 - Users are able to share their creation with others and then are able to browse what others have created 
 
 ### Technologies
