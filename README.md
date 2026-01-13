@@ -2,8 +2,7 @@
 
 [My Notes](notes.md)
 
-A webpage that allows users to create sheets for mech designs with options for different parts of it such as heads, bodys, and weapons.
-
+A webpage that allows users to create an account and then create datasheets for mechs/robots with interchangable parts that they can save and share their creations as well as browse through creations by other users.
 
 > [!NOTE]
 > If you are not familiar with Markdown then you should review the [documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) before continuing.
