@@ -50,12 +50,12 @@ sequenceDiagram
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
-- **CSS** - Description here
+- **HTML** - This will be utilized to build out the framework for the actual website
+- **CSS** - This will be utilized to create the styling and actual format for the website
 - **React** - Description here
 - **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **DB/Login** - User data and other information will be stored in a database
+- **WebSocket** - Websocket will be shared so that other users can view the mockups and creations of other users
 
 ## 🚀 AWS deliverable
 
