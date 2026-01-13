@@ -22,7 +22,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 ### Elevator pitch
 
-Many 
+I like many others have been a big fan of large robots and mechs and the ability to customize them. Whether someone is a fan of pacific rim, armored core, or any other robot/mech form of media they have probably imagned creating one of their own. This allows them to crete an idea for it parts that they can select and apply to a body that will give them stats such as speed, firepower, and armor. With these datasheets these people can go on and then use these designs they made in their own way whether create a 3d model or create a drawing to match it.
 
 ### Design
 
