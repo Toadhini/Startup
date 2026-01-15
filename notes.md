@@ -111,7 +111,8 @@ A webpage that allows users to create an account and then create datasheets for 
 > [!NOTE]
 > Fill in this sections as the submission artifact for this deliverable. You can refer to this [example](https://github.com/webprogramming260/startup-example/blob/main/README.md) for inspiration.
 
-## [!NOTE]
+## Command Line
+Use to ssh into server: ssh -i ~/keys/production.pem ubuntu@100.31.226.5
 whois and nslookup
 
 commands that can be used with a domain name to learn certain information regarding that site
