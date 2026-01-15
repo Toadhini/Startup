@@ -1,6 +1,6 @@
 # CS 260 Notes
 
-[My startup - Simon](https://simon.cs260.click)
+[My startup](https://createmechsheets.click)
 
 ## Helpful links
 
@@ -10,8 +10,8 @@
 
 ## AWS
 
-My IP address is: 54.81.96.130
-Launching my AMI I initially put it on a private subnet. Even though it had a public IP address and the security group was right, I wasn't able to connect to it.
+My IP address is: 100.31.226.5
+This is my elastic IP set up through AWS services 
 
 ## Caddy
 
