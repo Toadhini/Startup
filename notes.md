@@ -19,9 +19,9 @@ No problems worked just like it said in the [instruction](https://github.com/web
 
 ## HTML
 
-This was easy. I was careful to use the correct structural elements such as header, footer, main, nav, and form. The links between the three views work great using the `a` element.
+HTML was not too bad utilizing the tables helped a lot with formatting the statistics tables to give a clean look. Awkward part was figuring out how to do the drop town sections in creation page without sending all of the other information page all over the page. Utilising the hr and br elelemnts helped me out a lot
 
-The part I didn't like was the duplication of the header and footer code. This is messy, but it will get cleaned up when I get to React.
+I had an issue with it loading at first but realized that first page is required to label it index.html as that is what the browser will load automatically.
 
 ## CSS
 
@@ -122,4 +122,4 @@ commands that can be used with a domain name to learn certain information regard
 The "bones" or structure that make up the code for the site.
 For adding simple space between elements put <br> to add a line
 <td> is very useful and you can apply types to it such as the email and password type, password type makes it so that when typing password it is placed with dots as to help secure
-Inde.html is required as that is the file the browser will load by default
+Index.html is required as that is the file the browser will load by default
