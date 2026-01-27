@@ -120,3 +120,5 @@ commands that can be used with a domain name to learn certain information regard
 
 ## HTML
 The "bones" or structure that make up the code for the site.
+For adding simple space between elements put <br> to add a line
+<td> is very useful and you can apply types to it such as the email and password type, password type makes it so that when typing password it is placed with dots as to help secure
