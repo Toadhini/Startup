@@ -23,6 +23,8 @@ HTML was not too bad utilizing the tables helped a lot with formatting the stati
 
 I had an issue with it loading at first but realized that first page is required to label it index.html as that is what the browser will load automatically.
 
+I did have to search up how to utilise the links to toggle between pages but having that was a huge help in devloping and visualising the actual end product of the development.
+
 ## CSS
 
 This took a couple hours to get it how I wanted. It was important to make it responsive and Bootstrap helped with that. It looks great on all kinds of screen sizes.
