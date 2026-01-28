@@ -80,11 +80,11 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
 - [x] **HTML pages** - Created three HTML pages for the pages needed for my startup
-- [X] **Proper HTML element usage** - I implemented multiple HTML elements and utilized both headers and bodies
+- [X] **Proper HTML element usage** - I implemented multiple HTML elements and utilized both headers and bodies as well as footers
 - [X] **Links** - I have links allowing travel between all the pages
-- [x] **Text** - I did not complete this part of the deliverable.
+- [x] **Text** - Text relating to application put on pages
 - [x] **3rd party API placeholder** - I will be using a 3rd party database API
-- [X] **Images** - I will not be utilizing images in my program 
+- [X] **Images** - Created basic layout for mech, no images will be used in final product 
 - [X] **Login placeholder** - I have a sample login page that allows users to login eventually
 - [X] **DB data placeholder** - I have the places where data will be pulled form the database
 - [X] **WebSocket placeholder** - I Websocket will be used to pull from the database for the browsing page

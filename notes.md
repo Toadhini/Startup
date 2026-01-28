@@ -25,6 +25,14 @@ I had an issue with it loading at first but realized that first page is required
 
 I did have to search up how to utilise the links to toggle between pages but having that was a huge help in devloping and visualising the actual end product of the development.
 
+To maker better use of space on page be sure to properly use header/body/foot to help section off each part
+
+The "bones" or structure that make up the code for the site.
+For adding simple space between elements put <br> to add a line
+<td> is very useful and you can apply types to it such as the email and password type, password type makes it so that when typing password it is placed with dots as to help secure
+Index.html is required as that is the file the browser will load by default
+
+
 ## CSS
 
 This took a couple hours to get it how I wanted. It was important to make it responsive and Bootstrap helped with that. It looks great on all kinds of screen sizes.
@@ -119,9 +127,3 @@ whois and nslookup
 
 commands that can be used with a domain name to learn certain information regarding that site
 
-
-## HTML
-The "bones" or structure that make up the code for the site.
-For adding simple space between elements put <br> to add a line
-<td> is very useful and you can apply types to it such as the email and password type, password type makes it so that when typing password it is placed with dots as to help secure
-Index.html is required as that is the file the browser will load by default
